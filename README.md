@@ -1,2 +1,2 @@
-# C-tasks-MSU-VMK-2-
+# C-tasks-MSU-VMK
 Solving problems in the C programming course.
