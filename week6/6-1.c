@@ -19,6 +19,7 @@ suffix_check(const char *name)
     }
 
     return strcmp(suf, name + name_len - suf_len) == 0;
+    
 }
 
 int
